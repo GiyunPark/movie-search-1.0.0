@@ -66,10 +66,4 @@ Postsql
 docker run -e POSTGRES_USER=skcho -e POSTGRES_PASSWORD=skcho -e POSTGRES_DB=test -p 5432:5432 --name test_postgres postgres
 ```
 
-# 테스트
-혹시 가능하시다면 테스트 구현도 해주세요. 
-
-#구현할 기능 목록
-장르 검색시 영화목록 출력
-
 
